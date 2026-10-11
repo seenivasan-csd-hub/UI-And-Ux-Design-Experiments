@@ -152,12 +152,12 @@ A few of the smaller exercises that shape how I think as a designer.
 
 ## ◎ A little about me
 
-I'm **[YOUR NAME]**, a Computer Science and Design student interested in the intersection of thoughtful interfaces, visual storytelling, and technology.
+I'm **Seenivasan S**, a Computer Science and Design student interested in the intersection of thoughtful interfaces, visual storytelling, and technology.
 
 I enjoy experimenting with layouts, understanding user behavior, and turning rough ideas into something people can actually use.
 
 - **Studying:** Computer Science and Design
-- **Currently working on:** `[YOUR CURRENT PROJECT]`
+- **Currently working on:** `Rythm`
 - **Interested in:** UI/UX, interaction design, visual design, creative technology
 
 ---
