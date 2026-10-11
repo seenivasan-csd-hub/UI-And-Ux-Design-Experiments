@@ -61,26 +61,7 @@ A music experience exploring personalized recommendations, mood-based listening,
 [↗ View Figma prototype](YOUR_RYTHM_FIGMA_LINK)
 
 </td>
-<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/02-FOOD%20%26%20SOCIAL%20IMPACT-63D6E8?style=flat-square" />
-
-### Annadata
-**The Giver of Food.**
-
-A food redistribution concept connecting food donors with people who can claim available food, helping reduce waste through a more accessible experience.
-
-**Explorations**
-
-- User personas and journey mapping
-- Post Donation and Claim Tracking
-- Map view and usability evaluation
-
-`UX Research` `Wireframing` `Usability`
-
-[↗ View Figma prototype](YOUR_ANNADATA_FIGMA_LINK)
-
-</td>
 </tr>
 </table>
 
