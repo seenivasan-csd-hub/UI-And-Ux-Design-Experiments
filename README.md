@@ -58,7 +58,7 @@ A music experience exploring personalized recommendations, mood-based listening,
 
 `Interaction Design` `User Flows` `Prototyping`
 
-[↗ View Figma prototype](https://www.figma.com/proto/M579vrC9Ea259AETmexkPo/rythm?timeline=keyframe&node-id=298-18150&t=t4EBbmZXhuQNdUbf-0&scaling=scale-down&content-scaling=fixed&page-id=3%3A2&starting-point-node-id=298%3A16461&show-proto-sidebar=1)
+[↗ View Figma prototype](https://www.figma.com/proto/M579vrC9Ea259AETmexkPo/rythm?timeline=keyframe&node-id=298-18150&t=t4EBbmZXhuQNdUbf-0&scaling=scale-down&content-scaling=fixed&page-id=3%3A2&starting-point-node-id=298%3A16461&show-proto-sidebar=1](https://www.figma.com/proto/M579vrC9Ea259AETmexkPo/rythm?node-id=298-16461&p=f&t=kZ6ljAFLqdo5OMcP-0&scaling=scale-down&content-scaling=fixed&page-id=3%3A2&starting-point-node-id=298%3A16461&show-proto-sidebar=1))
 
 </td>
 
